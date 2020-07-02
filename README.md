@@ -7,3 +7,7 @@ For more detail information, please see these pdfs: ([English](http://bit.ly/map
 Mapat has several implementations for its purpose.
 ### Maplat UI
 
+![Maplat in iPhone](Maplat-iPhone.png)
+Maplat UI is Maplat with default UI.  
+
+
