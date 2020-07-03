@@ -30,3 +30,8 @@ Maplat CoreはAPI操作のみを持つMaplatです。
 ### Maplat Tin [[github](https://github.com/code4history/MaplatTin/wiki)] [[npm](https://www.npmjs.com/package/@maplat/tin)]
 Maplatの動作原理の心臓部といえる、制約付き不整三角網(Constrained Triangulated Irregular Network)を生成するライブラリです。  
 
+### Maplat Android [[github](https://github.com/code4history/MaplatAndroid)]
+Maplatを使ったAndroidアプリを開発するためのKotlin/Javaライブラリです。  
+
+### Maplat iOS [[github](https://github.com/code4history/MaplatiOS)]
+Maplatを使ったiOSアプリを開発するためのSwift/Objective-Cライブラリです。  
