@@ -36,3 +36,9 @@ This is the Kotlin/Java library for developing Android apps using Maplat.
 ### Maplat iOS [[github](https://github.com/code4history/MaplatiOS)]
 This is the Swift/Objective-C library for developing iOS apps using Maplat.  
 
+## Historical Open Data Creation / Distribution
+
+### Jizo Project [[github](https://github.com/code4history/JizoProject/wiki)]
+It is an activity to collect the location and photographs of Jizo, stone Buddhist statues, small wayside shrines in Nara city and make it into an open database.  
+It is a project to rediscover the value of Nara's historical and religious assets, which are considered to be denser than the convenience stores in metropolitan cities.  
+
