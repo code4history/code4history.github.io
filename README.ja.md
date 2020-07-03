@@ -35,3 +35,11 @@ Maplatを使ったAndroidアプリを開発するためのKotlin/Javaライブ�
 
 ### Maplat iOS [[github](https://github.com/code4history/MaplatiOS)]
 Maplatを使ったiOSアプリを開発するためのSwift/Objective-Cライブラリです。  
+
+## 歴史的オープンデータの作成配布
+
+### 地蔵プロジェクト [[github](https://github.com/code4history/JizoProject/wiki)]
+奈良市内の地蔵、石仏、小祠などの位置と写真を集約しオープンデータベース化する活動です。  
+無数にあり都会のコンビニエンスストアより密度が高いと思われる奈良の歴史的、信仰的資産の価値の再発見を試みるプロジェクトです。  
+
+
