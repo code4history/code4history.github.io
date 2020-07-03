@@ -18,5 +18,11 @@ Maplat UIはデフォルトのユーザインタフェースのついたMaplat�
 設定ファイルをWebサーバに設置すれば、サーバサイドで動くロジックは全くなしで動作します。  
 クライアントサイドAPIも存在しますので、サーバサイドロジックと連携することも可能です。  
 
+### Maplat Editor [[github](https://github.com/code4history/MaplatEditor/wiki)]  
+MaplatEditorはMaplatシリーズで動作する地図データを作成するためのエディタです。  
+デスクトップアプリとして、Intel MacとWin64で動作します。  
+インストーラを配布しています。  
+
 ### Maplat Core [[github](https://github.com/code4history/MaplatCore/wiki)] [[npm](https://www.npmjs.com/package/@maplat/core)]  
-Maplat UIはデフォルトのユーザインタフェースのついたMaplatです。
+Maplat CoreはAPI操作のみを持つMaplatです。  
+全てのふるまいがAPIを通じて自由に定義できます。  
