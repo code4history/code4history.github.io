@@ -51,3 +51,8 @@ We try to bring a new light to the forgotten achievements of 50 years ago, when 
 We work on the creation of tiled mapping data of the "Japan City Plan", a collection of the University of Texas, which was used by the U.S. military to govern Japan immediately after the Pacific War.  
 This map could not be correctly converted into GIS data even if it was processed using the described geodetic and projection systems.  
 However, we succeeded in converting the map into GIS data by identifying a method that can be processed by [unraveling the details of how the map was created](https://blog.chizuburari.jp/entry/20130220/1361390148).  
+
+### Open Data Collection of Poems by Himeji Poet Toru Otsuka [[Wikisource](https://ja.wikisource.org/wiki/%E5%A4%A7%E5%A1%9A%E5%BE%B9%E3%83%BB%E3%81%82%E3%81%8D%E8%A9%A9%E9%9B%86)]
+We are promoting a collection of poems by Toru Otsuka, a Himeji poet in the early Showa period, as open data at Creative Commons BY-SA 4.0.  
+It has been less than 70 years since his death and the copyright of them are not expired yet, but with the permission of the copyright successor, we are proceeding to publish it on CC.  
+
