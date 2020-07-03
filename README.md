@@ -1,5 +1,5 @@
 ---
-layout: default.ja
+layout: default
 ---
 
 # Code for History Activities
