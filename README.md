@@ -13,16 +13,19 @@ For more detail information, please see [this pdf](maplat_flyer.pdf).
 
 Maplat has several implementations for its purpose.
 
-### Maplat UI [[github](https://github.com/code4history/Maplat/wiki)] [[npm](https://www.npmjs.com/package/@maplat/ui)]  
+### Maplat UI [[github](https://github.com/code4history/Maplat/wiki)] [[npm](https://www.npmjs.com/package/@maplat/ui)]
 Maplat UI is Maplat with default UI.  
 If you put the configuration files on a web server, it will run without any server-side logic.  
 There is also an client-side API, so it can work with server-side logic.
 
-### Maplat Editor [[github](https://github.com/code4history/MaplatEditor/wiki)]  
+### Maplat Editor [[github](https://github.com/code4history/MaplatEditor/wiki)]
 MaplatEditor is an editor for creating map data that works with the Maplat series.  
 As a desktop application, it runs on both Intel Mac and Win 64.  
 Installers are distributed in the site.  
 
-### Maplat Core [[github](https://github.com/code4history/MaplatCore/wiki)] [[npm](https://www.npmjs.com/package/@maplat/core)]  
+### Maplat Core [[github](https://github.com/code4history/MaplatCore/wiki)] [[npm](https://www.npmjs.com/package/@maplat/core)]
 Maplat Core is API only version of Maplat.  
 All behaviors can be freely defined through the API.  
+
+### Maplat Tin [[github](https://github.com/code4history/MaplatTin/wiki)] [[npm](https://www.npmjs.com/package/@maplat/tin)]
+It is a library for generating the Constrained Triangulated Irregular Network, which is the heart of the operating principle of Maplet.  
