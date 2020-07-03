@@ -29,3 +29,10 @@ All behaviors can be freely defined through the API.
 
 ### Maplat Tin [[github](https://github.com/code4history/MaplatTin/wiki)] [[npm](https://www.npmjs.com/package/@maplat/tin)]
 It is a library for generating the Constrained Triangulated Irregular Network, which is the heart of the operating principle of Maplet.  
+
+### Maplat Android [[github](https://github.com/code4history/MaplatAndroid)]
+This is the Kotlin/Java library for developing Android apps using Maplat.  
+
+### Maplat iOS [[github](https://github.com/code4history/MaplatiOS)]
+This is the Swift/Objective-C library for developing iOS apps using Maplat.  
+
