@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 lang: ja-JP
 title: Code for History
 description: "\"Code for History\" is a community that uses IT technology to solve historical problems. But I want to emphasize that for us, IT technology is \"means\" not \"purpose\". \"Purpose\" is about solving historical problems, so we use even non-IT methods if necessary. It's a community that puts the top priority on solving problems by any means."
+description_ja: "\"Code for History\"はIT技術を歴史学上の問題の解決に使うコミュニティです。強調したいのは、我々にとってIT技術は「手段」であって「目的」ではありません。「目的」は歴史学上の問題を解決する事であって、必要であればITでない手段も活用します。常に最優先なのは、問題を解決することです。"
 logo: logo.png
