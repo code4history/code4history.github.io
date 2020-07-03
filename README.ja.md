@@ -15,4 +15,8 @@ Maplatには目的別にいくつかの実装があります。
 
 ### Maplat UI [[github](https://github.com/code4history/Maplat/wiki)] [[npm](https://www.npmjs.com/package/@maplat/ui)]  
 Maplat UIはデフォルトのユーザインタフェースのついたMaplatです。  
+設定ファイルをWebサーバに設置すれば、サーバサイドで動くロジックは全くなしで動作します。  
+クライアントサイドAPIも存在しますので、サーバサイドロジックと連携することも可能です。  
 
+### Maplat Core [[github](https://github.com/code4history/MaplatCore/wiki)] [[npm](https://www.npmjs.com/package/@maplat/core)]  
+Maplat UIはデフォルトのユーザインタフェースのついたMaplatです。
