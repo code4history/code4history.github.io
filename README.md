@@ -42,3 +42,7 @@ This is the Swift/Objective-C library for developing iOS apps using Maplat.
 It is an activity to collect the location and photographs of Jizo, stone Buddhist statues, small wayside shrines in Nara city and make it into an open database.  
 It is a project to rediscover the value of Nara's historical and religious assets, which are considered to be denser than the convenience stores in metropolitan cities.  
 
+### Tatebayashi Stone Monuments open database [[github](https://github.com/code4history/TatebayashiStones)]
+Some volunteers in Tatebayashi started a project about 50 years ago to collect the data of all stone monuments throughout the city and edited them as a series of five volumes named "Tatebayashi no Nobotoke Meguri".  
+We make these volumes into open data and survey how they are now.  
+We try to bring a new light to the forgotten achievements of 50 years ago, when valuable achievements were made.  
