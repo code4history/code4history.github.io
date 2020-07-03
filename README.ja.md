@@ -4,7 +4,7 @@ permalink: /index_ja.html
 link_en: /
 ---
 
-# Code for History Activities
+# Code for Historyの活動
 
 ## Maplat
 ![MaplatMobile](Maplat-iPhone.png)
