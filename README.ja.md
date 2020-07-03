@@ -26,3 +26,7 @@ MaplatEditorはMaplatシリーズで動作する地図データを作成する�
 ### Maplat Core [[github](https://github.com/code4history/MaplatCore/wiki)] [[npm](https://www.npmjs.com/package/@maplat/core)]  
 Maplat CoreはAPI操作のみを持つMaplatです。  
 全てのふるまいがAPIを通じて自由に定義できます。  
+
+### Maplat Tin [[github](https://github.com/code4history/MaplatTin/wiki)] [[npm](https://www.npmjs.com/package/@maplat/tin)]
+Maplatの動作原理の心臓部といえる、制約付き不整三角網(Constrained Triangulated Irregular Network)を生成するライブラリです。  
+
