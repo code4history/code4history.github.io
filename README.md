@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /index.html
+link_ja: /index.ja.html
 ---
 
 # Code for History Activities
