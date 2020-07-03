@@ -1,5 +1,6 @@
 ---
 layout: default.ja
+permalink: /index_ja.html
 link_en: /
 ---
 
