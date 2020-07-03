@@ -1,5 +1,7 @@
 ---
 layout: default.ja
+permalink: /index.ja.html
+link_en: /
 ---
 
 # Code for History Activities
