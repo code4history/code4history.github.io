@@ -13,8 +13,7 @@ For more detail information, please see [this pdf](maplat_flyer.pdf).
 
 Mapat has several implementations for its purpose.
 
-### Maplat UI
-[[github](https://github.com/code4history/Maplat/wiki)] [[npm](https://www.npmjs.com/package/@maplat/ui)]  
+### Maplat UI [[github](https://github.com/code4history/Maplat/wiki)] [[npm](https://www.npmjs.com/package/@maplat/ui)]  
 Maplat UI is Maplat with default UI.  
 
 
