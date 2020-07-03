@@ -46,3 +46,8 @@ It is a project to rediscover the value of Nara's historical and religious asset
 Some volunteers in Tatebayashi started a project about 50 years ago to collect the data of all stone monuments throughout the city and edited them as a series of five volumes named "Tatebayashi no Nobotoke Meguri".  
 We make these volumes into open data and survey how they are now.  
 We try to bring a new light to the forgotten achievements of 50 years ago, when valuable achievements were made.  
+
+### Tile mapping of US Army "Japan City Plan" map
+We work on the creation of tiled mapping data of the "Japan City Plan", a collection of the University of Texas, which was used by the U.S. military to govern Japan immediately after the Pacific War.  
+This map could not be correctly converted into GIS data even if it was processed using the described geodetic and projection systems.  
+However, we succeeded in converting the map into GIS data by identifying a method that can be processed by [unraveling the details of how the map was created](https://blog.chizuburari.jp/entry/20130220/1361390148).  
