@@ -15,5 +15,5 @@ Mapat has several implementations for its purpose.
 
 ### Maplat UI
 Maplat UI is Maplat with default UI.  
-
+[[github](https://github.com/code4history/Maplat/wiki)] [[npm](https://www.npmjs.com/package/@maplat/ui)]  
 
