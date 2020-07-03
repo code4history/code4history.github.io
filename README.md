@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /index.html
 ---
 
 # Code for History Activities
