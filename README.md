@@ -1,3 +1,7 @@
+---
+layout: default.ja
+---
+
 # Code for History Activities
 
 ## Maplat
