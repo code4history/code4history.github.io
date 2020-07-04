@@ -78,5 +78,9 @@ Code for Historyを名乗る前の活動も含みます。
 ### ヒロシマ・アーカイブへの協力
 [渡邉英徳](https://ja.wikipedia.org/wiki/%E6%B8%A1%E9%82%89%E8%8B%B1%E5%BE%B3)先生を中心とした広島原爆の記憶証言を残すサイト「[ヒロシマ・アーカイブ](http://hiroshima.mapping.jp/index_jp.html)」に、[国土地理院の地形データを読み込むオープンソースライブラリの提供](https://github.com/tilemapjp/Cesium-JapanGSI)で協力しました。  
 
-
+### Maplat適用案件への協力、サポート
+いくつかのCode for Historyを主体としないMaplat適用案件への導入支援を行いました。  
+公開できないものなどもありますが、公開可能な事例としては以下のようなものがあります。  
+* 株式会社まちづくりプラットフォーム様の「[観光クラウドアプリ](https://www.machi-pla.com/apps/)」へのMaplat (MaplatAndroid, MaplatiOS)適用支援
+* 大阪市東成区様の「[ひがしなりまち歩きアプリ](https://higashinari-walk.fun/)」へのMaplat (Maplat UI)適用支援
 
