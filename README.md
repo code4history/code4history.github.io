@@ -92,6 +92,17 @@ There are many projects that cannot be opened to the public, but we have provide
 ## What we will do in the future
 
 ### GIS Open Data for Castle Structure
-We would like to start with Tatebayashi Castle, then next are Himeji Castle, Aizu Wakamatsu Castle, Iwaki Taira Castle, Kanazawa Castle and Sendai Aoba Castle.
-First of all, we will create GIS data of defensive structures (Castle walls, moats, gates, etc.), and after that, we would like to work on the area polygon of town names in the castle town.
-As a similar initiative, we plan to expand it to include data on the Naramachi area in Nara.
+We would like to start with Tatebayashi Castle, then next are Himeji Castle, Aizu-Wakamatsu Castle, Iwaki-Taira Castle, Kanazawa Castle and Sendai-Aoba Castle.  
+First of all, we will create GIS data of defensive structures (Castle walls, moats, gates, etc.), and after that, we would like to work on the area polygon of town names in the castle town.  
+As a similar initiative, we plan to expand it to include data on the Naramachi area in Nara.  
+
+### Historical Koaza position open data
+The Center for Open Data in the Humanities is providing [current Koaza position open data](http://geoshape.ex.nii.ac.jp/ka/) including the polygon boundaries.  
+We hope to extend it to include historical Koaza.  
+It may not be possible to include the polygon boundary, but I would like to start with Tatebayashi, even if it is just a representative point.  
+
+### Provision of open data sightseeing POI
+We would like to provide POI data on historical sites that can be used freely for sightseeing applications in various places.  
+As a feature, we would like to make it unique, including unique contents such as "[Kikaigashima](https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%95%8C%E3%83%B6%E5%B3%B6_(%E5%A5%88%E8%89%AF%E5%B8%82))" and "[Tea Granny](https://ja.wikipedia.org/wiki/%E3%81%8A%E8%8C%B6%E3%81%AE%E3%81%8A%E3%81%B0%E3%81%82%E3%81%95%E3%82%93)".  
+We would like to start with Tatebayashi, Nara, Himeji, Aizu-Wakamatsu, Iwaki, Kanazawa, Sendai and Nobeoka.  
+
