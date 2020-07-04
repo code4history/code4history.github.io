@@ -36,6 +36,14 @@ Maplatを使ったAndroidアプリを開発するためのKotlin/Javaライブ�
 ### Maplat iOS [[github](https://github.com/code4history/MaplatiOS)]
 Maplatを使ったiOSアプリを開発するためのSwift/Objective-Cライブラリです。  
 
+### Maplat適用サイトの自主運営
+Maplatの適用例デモと趣味的な実益を兼ねて、いくつかの街の街歩き用古地図サイトを運営しています。
+* [ぷらっと奈良](https://s.maplat.jp/r/naramap/)
+* [ぷらっと館林](https://s.maplat.jp/r/tatebayashimap/)
+* [ぷらっと会津若松](https://s.maplat.jp/r/aizumap/)
+* [ぷらっといわき](https://s.maplat.jp/r/iwakimap/)
+* [ぷらっと東京中央区](https://s.maplat.jp/r/chuokumap/)
+
 ## 歴史的オープンデータの作成配布
 
 ### 地蔵プロジェクト [[github](https://github.com/code4history/JizoProject/wiki)]
