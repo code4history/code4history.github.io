@@ -89,3 +89,9 @@ Some of them cannot be published, but the following are some examples that can b
 ### Investigation of the origin of great figures and historic sites
 There are many projects that cannot be opened to the public, but we have provided support mainly for historical maps, chorographies, and library surveys for great figures and historic sites.  
 
+## What we will do in the future
+
+### GIS Open Data for Castle Structure
+We would like to start with Tatebayashi Castle, then next are Himeji Castle, Aizu Wakamatsu Castle, Iwaki Taira Castle, Kanazawa Castle and Sendai Aoba Castle.
+First of all, we will create GIS data of defensive structures (Castle walls, moats, gates, etc.), and after that, we would like to work on the area polygon of town names in the castle town.
+As a similar initiative, we plan to expand it to include data on the Naramachi area in Nara.
