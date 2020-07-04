@@ -71,7 +71,7 @@ Leading articles:"[Kikai-ga-Shima (Nara)](https://ja.wikipedia.org/wiki/%E9%AC%B
 
 ## Support for activities of other organizations
 Including activities before we call ourselves Code for History.  
-Although we are not in the main business, we can help you to the extent possible, if we can cooperate with you through know-how utilizing old maps, topography surveys, and library references, including consultation on how to apply Maplat.  
+Although we are not in the main business, we can help you to the extent possible, if we can cooperate with you through know-how utilizing old maps, chorography surveys, and library references, including consultation on how to apply Maplat.  
 Please feel free to contact us.  
 
 ### Assistance in Locating Ainu Names in Hokkaido
@@ -85,3 +85,7 @@ We helped with the implementation of Maplat applications which are not operated 
 Some of them cannot be published, but the following are some examples that can be published.  
 * Supporting the application of Maplat (Maplat Android, Maplat iOS) to the "[Sightseeing cloud application](https://www.machi-pla.com/apps/)" of the Machidukuri-Platform Co., Ltd.
 * Support for application of Maplat (Maplat UI) to "[Higashinari City Walk App](https://higashinari-walk.fun/)" in Higashinari Ward, Osaka City
+
+### Investigation of the origin of great figures and historic sites
+There are many projects that cannot be opened to the public, but we have provided support mainly for historical maps, chorographies, and library surveys for great figures and historic sites.  
+
