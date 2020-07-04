@@ -47,7 +47,7 @@ Some volunteers in Tatebayashi started a project about 50 years ago to collect t
 We make these volumes into open data and survey how they are now.  
 We try to bring a new light to the forgotten achievements of 50 years ago, when valuable achievements were made.  
 
-### Tile mapping of US Army "Japan City Plan" map
+### Tile mapping of US Army "Japan City Plan" map [[github](https://github.com/code4history/TatebayashiStones)]
 We work on the creation of tiled mapping data of the "Japan City Plan", a collection of the University of Texas, which was used by the U.S. military to govern Japan immediately after the Pacific War.  
 This map could not be correctly converted into GIS data even if it was processed using the described geodetic and projection systems.  
 However, we succeeded in converting the map into GIS data by identifying a method that can be processed by [unraveling the details of how the map was created](https://blog.chizuburari.jp/entry/20130220/1361390148).  
@@ -55,4 +55,10 @@ However, we succeeded in converting the map into GIS data by identifying a metho
 ### Open Data Collection of Poems by Himeji Poet Toru Otsuka [[Wikisource](https://ja.wikisource.org/wiki/%E5%A4%A7%E5%A1%9A%E5%BE%B9%E3%83%BB%E3%81%82%E3%81%8D%E8%A9%A9%E9%9B%86)]
 We are promoting a collection of poems by Toru Otsuka, a Himeji poet in the early Showa period, as open data at Creative Commons BY-SA 4.0.  
 It has been less than 70 years since his death and the copyright of them are not expired yet, but with the permission of the copyright successor, we are proceeding to publish it on CC.  
+
+### Writing Wikipedia Articles on Historic Sites, Events, etc. [[List](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Kochizufan)]
+We are working to dig up forgotten historical sites and events and turn them into Wikipedia articles for future.  
+As a feature, we provide uniqueness to make articles by investigating not only literature but also historical maps and geographical data.  
+Leading articles:"[Kikai-ga-Shima (Nara)](https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%95%8C%E3%83%B6%E5%B3%B6_(%E5%A5%88%E8%89%AF%E5%B8%82))","[Shogan-in temple](https://ja.wikipedia.org/wiki/%E5%8B%9D%E9%A1%98%E9%99%A2)","[Playhouse in Kawarado](https://ja.wikipedia.org/wiki/%E7%93%A6%E5%A0%82%E3%81%AE%E8%8A%9D%E5%B1%85%E5%B0%8F%E5%B1%8B)","[Yashima Mausoleum](https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B3%B6%E9%99%B5)","[Fukudera temple](https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%AF%BA)","[Shimada shrine](https://ja.wikipedia.org/wiki/%E5%B6%8B%E7%94%B0%E7%A5%9E%E7%A4%BE)","[Kodo Murai](https://ja.wikipedia.org/wiki/%E6%9D%91%E4%BA%95%E5%8F%A4%E9%81%93)","[Kasuga-utsushi](https://ja.wikipedia.org/wiki/%E6%98%A5%E6%97%A5%E7%A7%BB%E3%81%97)","[Belief of Gozu-Tenno in Tatebayashi](https://ja.wikipedia.org/wiki/%E9%A4%A8%E6%9E%97%E3%81%AE%E7%89%9B%E9%A0%AD%E5%A4%A9%E7%8E%8B%E4%BF%A1%E4%BB%B0)","[Obiki Inari shrine](https://ja.wikipedia.org/wiki/%E5%B0%BE%E6%9B%B3%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE)","[Tea Granny](https://ja.wikipedia.org/wiki/%E3%81%8A%E8%8C%B6%E3%81%AE%E3%81%8A%E3%81%B0%E3%81%82%E3%81%95%E3%82%93)","[Shigemitsu Kitao](https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B0%BE%E9%87%8D%E5%85%89)","[Toyoko Osawa](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%A2%E8%B1%8A%E5%AD%90)","[Toru Otsuka (Poet)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E5%BE%B9_(%E8%A9%A9%E4%BA%BA))"
+
 
