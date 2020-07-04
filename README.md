@@ -36,6 +36,14 @@ This is the Kotlin/Java library for developing Android apps using Maplat.
 ### Maplat iOS [[github](https://github.com/code4history/MaplatiOS)]
 This is the Swift/Objective-C library for developing iOS apps using Maplat.  
 
+### Operation of Maplat-applied sites
+We run several historical city map web sites for street walking for both Maplat demonstration and hobbyist profit.  
+* [Maplat Nara](https://s.maplat.jp/r/naramap/)
+* [Maplat Tatebayashi](https://s.maplat.jp/r/tatebayashimap/)
+* [Maplat Aizu Wakamatsu](https://s.maplat.jp/r/aizumap/)
+* [Maplat Iwaki](https://s.maplat.jp/r/iwakimap/)
+* [Maplat Tokyo Chuo-ku](https://s.maplat.jp/r/chuokumap/)
+
 ## Historical Open Data Creation / Distribution
 
 ### Jizo Project [[github](https://github.com/code4history/JizoProject/wiki)]
