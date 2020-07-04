@@ -74,3 +74,8 @@ Including activities before we call ourselves Code for History.
 
 ### Assistance in Locating Ainu Names in Hokkaido
 In the production of [historical place name data by National Institutes for the Humanities](https://www.nihu.jp/ja/publication/source_map), we provided cooperation by providing location identification technology for places where the location could not be identified due to a large amount of displacement and distortion in the old version of the topographic map when the location was identified from the topographic map with a scale of 1: 50,000.  
+
+### Cooperation with the "Hiroshima Archive"
+We cooperated with Professor [Hidenori Watanabe](https://ja.wikipedia.org/wiki/%E6%B8%A1%E9%82%89%E8%8B%B1%E5%BE%B3) and his staff in providing [an open source library that reads topographical data from the Geospatial Information Authority of Japan](https://github.com/tilemapjp/Cesium-JapanGSI) to "[Hiroshima Archive](http://hiroshima.mapping.jp/index_en.html)" a site that preserves memories and testimonies of the Hiroshima atomic bomb.  
+
+
