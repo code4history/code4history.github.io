@@ -80,4 +80,8 @@ In the production of [historical place name data by National Institutes for the 
 ### Cooperation with the "Hiroshima Archive"
 We cooperated with Professor [Hidenori Watanabe](https://ja.wikipedia.org/wiki/%E6%B8%A1%E9%82%89%E8%8B%B1%E5%BE%B3) and his staff in providing [an open source library that reads topographical data from the Geospatial Information Authority of Japan](https://github.com/tilemapjp/Cesium-JapanGSI) to "[Hiroshima Archive](http://hiroshima.mapping.jp/index_en.html)" a site that preserves memories and testimonies of the Hiroshima atomic bomb.  
 
-
+### Cooperation and support for Maplat applications
+We helped with the implementation of Maplat applications which are not operated by Code for History.  
+Some of them cannot be published, but the following are some examples that can be published.  
+* Supporting the application of Maplat (Maplat Android, Maplat iOS) to the "[Sightseeing cloud application](https://www.machi-pla.com/apps/)" of the Machidukuri-Platform Co., Ltd.
+* Support for application of Maplat (Maplat UI) to "[Higashinari City Walk App](https://higashinari-walk.fun/)" in Higashinari Ward, Osaka City
