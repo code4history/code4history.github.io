@@ -84,3 +84,6 @@ Code for Historyを名乗る前の活動も含みます。
 * 株式会社まちづくりプラットフォーム様の「[観光クラウドアプリ](https://www.machi-pla.com/apps/)」へのMaplat (MaplatAndroid, MaplatiOS)適用支援
 * 大阪市東成区様の「[ひがしなりまち歩きアプリ](https://higashinari-walk.fun/)」へのMaplat (Maplat UI)適用支援
 
+### 偉人、史跡などの来歴など調査
+公開できない案件が多いですが、偉人、史跡などについて、古地図や地誌、図書館調査などを中心とした支援を行ってきました。
+
