@@ -9,7 +9,9 @@ link_en: /
 ## Maplat
 ![MaplatMobile](Maplat-iPhone.png)
 Maplatはクールな古地図と絵地図ビューアで、トポロジー的な同形性を維持しつつ、描画を歪めることなくあらゆる地図を重ね合わせたり切り替えたりできる世界で唯一の技術です(特許第6684776号)。美しさが全く損なわれない古地図や絵地図を使って、町を散策したり、歴史の勉強に使ったりできます。  
-詳しくは[こちらのpdf](maplat_flyer_ja.pdf)をご覧ください。  
+詳しくはこれらのpdfをご覧ください:  
+* [ビジネス寄り情報](Introduction_of_Maplat_solution_JP.pdf)
+* [技術寄り情報](maplat_flyer_ja.pdf)
 
 Maplatには目的別にいくつかの実装があります。
 
