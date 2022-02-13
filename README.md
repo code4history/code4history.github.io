@@ -8,10 +8,10 @@ link_ja: /index_ja.html
 
 ## Maplat
 ![MaplatMobile](Maplat-iPhone.png)
-Maplat is a cool historical map and pictorial map viewer and is the only technology in the world that allows you to overlay and switch over any maps with keeping topological homeomorphism and without distorting it (Japan Patent No. 6684776). You can use it to walk around town or study history without spoiling the beauty of histrical maps or pictorial maps.  
+Maplat is a cool historical map and pictorial map viewer and is the only technology in the world that allows you to overlay and switch over any maps with keeping topological homeomorphism and without distorting it (Japan Patent No. 6684776). You can use it to walk around town or study history without spoiling the beauty of histrical maps or pictorial maps.
 For more detail information, please see these pdfs:  
 * [Business side info](Introduction_of_Maplat_solution.pdf)
-* [Technical detailed info](maplat_flyer.pdf)
+* [Technical detailed info](maplat_flyer_2021.pdf)
 
 Maplat has several implementations for its purpose.
 
