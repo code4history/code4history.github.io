@@ -63,6 +63,7 @@ We run several historical city map web sites for street walking for both Maplat 
 * [QiitaのMaplat関連記事一覧](https://qiita.com/tags/maplat)
 * [Maplatの最新状況 –流行りのGTFSともコラボしてみた](https://speakerdeck.com/kochizufan/maplatfalsezui-xin-zhuang-kuang-liu-xing-rifalsegtfstomokorabositemita-shen-hu-baziyon)
 * [古地図アプリMaplat、その後の進化](https://speakerdeck.com/kochizufan/geoactivity2021)
+
 #### English
 * [A vision to make OSM data the backbone of history across time and space](https://speakerdeck.com/kochizufan/sotm-japan-2020)
 * [Introduction of HTGCL (Historical Topographic Ground Control Line)](https://speakerdeck.com/kochizufan/foss4g-japan-2020)
