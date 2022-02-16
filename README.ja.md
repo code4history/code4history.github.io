@@ -6,12 +6,16 @@ link_en: /
 
 # Code for Historyの活動
 
-## Maplat
+## Maplatの開発
+-- Map for storied cities, Map for smart cities --
+
 ![MaplatMobile](Maplat-iPhone.png)
 Maplatはクールな古地図と絵地図ビューアで、トポロジー的な同形性を維持しつつ、描画を歪めることなくあらゆる地図を重ね合わせたり切り替えたりできる世界で唯一の技術です(特許第6684776号)。美しさが全く損なわれない古地図や絵地図を使って、町を散策したり、歴史の勉強に使ったりできます。
 詳しくはこれらのpdfをご覧ください:  
-* [ビジネス寄り情報](Introduction_of_Maplat_solution_JP.pdf)
-* [技術寄り情報](maplat_flyer_2021_ja.pdf)
+* [ビジネス寄り情報 (日本語)](Introduction_of_Maplat_solution_JP.pdf)
+* [ビジネス寄り情報 (英語)](Introduction_of_Maplat_solution.pdf)
+* [技術寄り情報 (日本語)](maplat_flyer_2021_ja.pdf)
+* [技術寄り情報 (英語)](maplat_flyer_2021.pdf)
 
 Maplatには目的別にいくつかの実装があります。
 
@@ -39,12 +43,55 @@ Maplatを使ったAndroidアプリを開発するためのKotlin/Javaライブ�
 Maplatを使ったiOSアプリを開発するためのSwift/Objective-Cライブラリです。  
 
 ### Maplat適用サイトの自主運営
+#### 採用事例
+商用に採用された事例です。
+* [ひがしなりまち歩きアプリ](https://higashinari-walk.fun/) (大阪市東成区)
+* [のってみりん](https://knot.temirin.jp/) (豊橋市バスロケーションサイト)
+* [ぷらっと玉村](https://s.maplat.jp/r/tamamuramap/) (ぐんま史料ネット)
+
+#### 自主運営
 Maplatの適用例デモと趣味的な実益を兼ねて、いくつかの街の街歩き用古地図サイトを運営しています。
-* [ぷらっと奈良](https://s.maplat.jp/r/naramap/)
-* [ぷらっと館林](https://s.maplat.jp/r/tatebayashimap/)
-* [ぷらっと会津若松](https://s.maplat.jp/r/aizumap/)
-* [ぷらっといわき](https://s.maplat.jp/r/iwakimap/)
-* [ぷらっと東京中央区](https://s.maplat.jp/r/chuokumap/)
+* [ぷらっと奈良](https://s.maplat.jp/r/naramap/) (奈良市)
+* [ぷらっと館林](https://s.maplat.jp/r/tatebayashimap/) (館林市)
+* [ぷらっと会津若松](https://s.maplat.jp/r/aizumap/) (会津若松市)
+* [ぷらっといわき](https://s.maplat.jp/r/iwakimap/) (いわき市)
+* [ぷらっと東京中央区](https://s.maplat.jp/r/chuokumap/) (東京都中央区)
+* [ぷらっと水戸](https://s.maplat.jp/r/mitomap/) (水戸市)
+
+### 情報へのリンク
+#### 日本語
+* [QiitaのMaplat関連記事一覧](https://qiita.com/tags/maplat)
+* [Maplatの最新状況 –流行りのGTFSともコラボしてみた](https://speakerdeck.com/kochizufan/maplatfalsezui-xin-zhuang-kuang-liu-xing-rifalsegtfstomokorabositemita-shen-hu-baziyon)
+* [古地図アプリMaplat、その後の進化](https://speakerdeck.com/kochizufan/geoactivity2021)
+#### 英語
+* [A vision to make OSM data the backbone of history across time and space](https://speakerdeck.com/kochizufan/sotm-japan-2020)
+* [Introduction of HTGCL (Historical Topographic Ground Control Line)](https://speakerdeck.com/kochizufan/foss4g-japan-2020)
+* [Maplat - Map application platform that utilizes historical maps and cultural assets](https://speakerdeck.com/kochizufan/code4lib-2021)
+
+## 歴史的調査/文化財調査のオープンデータ化に役立つオープンソースソフトウェア開発
+
+### Weiwudi [[github](https://github.com/code4history/Weiwudi)] [[npm](https://www.npmjs.com/package/weiwudi)]
+PWA (Progressive Web App) で地図アプリケーションを作る際に、地図タイルのオフライン利用可能なキャッシュを制御し、現在のキャッシュ容量の取得や事前一括ダウンロード、キャッシュ一括削除などができるservice workerのためのフレームワークです。
+#### 情報へのリンク
+* [Weiwudi (タイル地図アプリ向けPWAオフライン対応フレームワーク)](https://qiita.com/kochizufan/items/1d55200e0bd8779850a4#weiwudi-%E3%82%BF%E3%82%A4%E3%83%AB%E5%9C%B0%E5%9B%B3%E3%82%A2%E3%83%97%E3%83%AA%E5%90%91%E3%81%91pwa%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E5%AF%BE%E5%BF%9C%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF) (日本語)
+* [タイル地図アプリ向けPWAオフライン対応フレームワークWeiwudiをベクトルタイルに対応させる宣言](https://qiita.com/kochizufan/items/0f01b08ca48d1109c59f) (日本語)
+* Weiwudi – Service worker framework for map application ([日本語](https://speakerdeck.com/kochizufan/weiwudi-2021), [英語](https://speakerdeck.com/kochizufan/weiwudi-2021?slide=30))
+
+### Torii [[github](https://github.com/code4history/Torii)]
+Toriiは位置情報に紐づく文化財オープンデータを効率よく管理できるようにするための管理用プログラムです。  
+データのマスタ情報をExcelとGeoJSON双方で管理し、どちらを変更しても、中間データを介して、双方のマスタを変更に一致するように反映できるようにしました。
+#### 情報へのリンク
+* [アニメの聖地における地域歴史資料の活用と公開、普及施策](https://speakerdeck.com/kochizufan/gumma-wu-rf-2021) (日本語)
+
+### Gyeonghwon [[github](https://github.com/code4history/Gyeonghwon)]
+新しいcanvasベースの地図APIで、Animated Imageを使って簡単にアニメーションマーカーを作成するためのプラットフォームです。  
+Animated GIF, APNG, Animated webpに対応しました。
+
+### Harumi [[github](https://github.com/code4history/Gyeonghwon)]
+
+### Quyuan [[github](https://github.com/code4history/Quyuan)]
+
+### Nagarjuna [[github](https://github.com/code4history/Nagarjuna)] (開発中)
 
 ## 歴史的オープンデータの作成配布
 
